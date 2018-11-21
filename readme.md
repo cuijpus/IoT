@@ -1,6 +1,5 @@
 
 # IoT Landscape (2018, W/W)
-![IoT Landscape](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 ![总览图](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 
 
