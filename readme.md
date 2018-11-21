@@ -1,6 +1,7 @@
 
 # IoT Landscape (2018, W/W)
-![总览图](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+![总览图](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png) <br>
+
 
 
 1. 百度“天工”物联网平台
@@ -11,4 +12,3 @@
 6. 华为HiLink平台
 7. 科大讯飞IoT平台
 8. 小米IoT生态链
-
