@@ -74,11 +74,14 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2018.11 [阿里IoT](https://iot.aliyun.com/)<br>
 >>[实施案例](https://files.alicdn.com/tpsservice/62265eb8a45a49bdf628337a690300e2.pdf)<br>
 
+2018.9.29 [阿里云IoT总经理库伟：打造“IoT云上闭环”，物联网战略升级](https://baijiahao.baidu.com/s?id=1612928719998773534&wfr=spider&for=pc)<br>
 2018.9.28 [阿里巴巴获物联网芯片IP授权 加速布局IOT](http://tech.sina.com.cn/it/2018-09-28/doc-ifxeuwwr9147902.shtml)<br>
 2018.4.30 [一图看懂阿里云IoT战略]()<br>
 从万物互联到万物智联，离不开“无处不在的计算”。阿里云IoT在云边端部署了可协同的计算，基于物联网使能平台联合开发者、芯片模组厂商、行业合作伙伴等在城市、生活、汽车、制造四大领域已完成深度布局，即一朵云、两个端、三类伙伴、四大领域的”1234“战略。<br>
 >>[一图看懂阿里云IoT战略](http://5b0988e595225.cdn.sohucs.com/images/20180403/d0036a0a59a643fd9bfb7a5a247be6cc.png)<br> 
 
+2018.5.30 [中科院前研究员付强入职阿里　将建2个声学实验室](http://baijiahao.baidu.com/s?id=1599418507177127847&wfr=spider&for=pc)<br>
+2018.4.13 [阿里IOT战略瞄准了IOT未来趋势——边缘计算](http://www.elecfans.com/d/661601.html)<br>
 2018.3.28 [阿里巴巴宣布全面进军IoT，成为第五大赛道，5年内发展100亿设备](http://baijiahao.baidu.com/s?id=1596152781140932485&wfr=spider&for=pc)<br>
 阿里云IoT：<br>
 ![阿里云IoT](https://image.3001.net/images/20180330/15223934083976.png!small)<br>
