@@ -23,6 +23,7 @@
 2018.10 [Huawei LiteOS 物联网操作系统](https://developer.huawei.com/ict/cn/site-iot-liteos)<br>
 2018.10 [边缘计算网关](https://developer.huawei.com/ict/cn/site-iot-ec-iot)<br>
 2018.10 [华为IoT生态伙伴手册2.1 ](http://carrier.huawei.com/zh/trends-and-insights/iot/iot-ecosystem-partners)<br>
+2017.9 [研究 | 史上最全，华为NB-IoT战略及生态报告](http://www.sohu.com/a/191896909_810044)<br>
 2016.11.30 [华为NB-IoT解决方案](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
 
