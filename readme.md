@@ -62,6 +62,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 
 ### 阿里巴巴
+2018.11 [物联网市场](https://linkmarket.aliyun.com/?spm=a2c56.193971.1016405.9.666025c8yzr9yt)<br>
 2018.11 [阿里IoT](https://iot.aliyun.com/)<br>
 [实施案例](https://files.alicdn.com/tpsservice/62265eb8a45a49bdf628337a690300e2.pdf)<br>
 2018.4.30 [一图看懂阿里云IoT战略]()<br>
