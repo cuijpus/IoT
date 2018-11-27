@@ -63,11 +63,11 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 ### 阿里巴巴
 阿里云从云管边端全生态布局物联网。<br>
-　　在云上，阿里云推出了物联网云平台Link Platform、应用开发平台Link Develop、物联网市场Link Market，包括配套的物联网安全和物联网标准体系；<br>
-   在管侧，发布了自主低功耗广域网平台Link WAN，兼容包括LoRa、NB-IoT在内95%的通信协议；<br>
-   在边侧，构建了物联网边缘计算产品Link IoT Edge；<br>
-   端上设备层推出了物联网操作系统AliOS Things和多环境设备端SDK。<br>
-　 在杭州的云栖大会上，阿里云IoT还与英特尔联合推出了云边一体化边缘计算产品，是一个专门针对物联网应用的开放性框架。<br>
+>>在云上，阿里云推出了物联网云平台Link Platform、应用开发平台Link Develop、物联网市场Link Market，包括配套的物联网安全和物联网标准体系；<br>
+>>在管侧，发布了自主低功耗广域网平台Link WAN，兼容包括LoRa、NB-IoT在内95%的通信协议；<br>
+>>在边侧，构建了物联网边缘计算产品Link IoT Edge；<br>
+>>端上设备层推出了物联网操作系统AliOS Things和多环境设备端SDK。<br>
+>>在杭州的云栖大会上，阿里云IoT还与英特尔联合推出了云边一体化边缘计算产品，是一个专门针对物联网应用的开放性框架。<br>
   
 2018.11 [物联网市场](https://linkmarket.aliyun.com/?spm=a2c56.193971.1016405.9.666025c8yzr9yt)<br>
 2018.11 [阿里IoT](https://iot.aliyun.com/)<br>
