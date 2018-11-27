@@ -18,6 +18,19 @@
 
 # 生态
 ## 巨头们的生态构筑
+
+### 小米
+2018.11.27 [雷军下周出席小米AIoT开发者大会：详解小米AI+IoT核心战略](https://baijiahao.baidu.com/s?id=1617890007839408934&wfr=spider&for=pc)<br>
+2018.5.24  [深度解读小米IoT故事，AI技术补课没那么容易](https://baijiahao.baidu.com/s?id=1601333482414872878&wfr=spider&for=pc)<br>
+2017.11.29 [小米百度战略合作：共同推进IoT平台发展](http://www.techweb.com.cn/digitallife/2017-11-29/2612127.shtml)<br>
+2017.11.28 [助力小米AI战略 小米IoT宣布开发者计划将全面开放](http://www.ccidnet.com/2017/1201/10338774.shtml)<br>
+2017.11.28 [小米首次披露IoT战略 将开启战略第二阶段](https://baijiahao.baidu.com/s?id=1585294094270129962&wfr=spider&for=pc)<br>
+2017.11.28 [MIDC 2017 小米开发者大会](http://special.ccidnet.com/171124/)<br>
+2016
+2015 小米正式启动IoT战略并对外发布首款小米智能模块 <br>
+2014 WIFI模组 <br>
+2013.11 发布小米路由器 <br>
+
 ### 华为
 
 2018.11 [IoT联接管理平台彩页](https://e.huawei.com/cn/material/onLineView?MaterialID=8d922d32711144399be5fcda3d64b3a3)<br>
