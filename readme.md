@@ -26,8 +26,9 @@
 2017.9 [研究 | 史上最全，华为NB-IoT战略及生态报告](http://www.sohu.com/a/191896909_810044)<br>
 2016.11.30 [华为NB-IoT解决方案](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
 2016.8 [如何拥抱物联网？华为IoT生态大揭秘](http://blog.sina.com.cn/s/blog_be62e9a90102wili.html)<br>
-2015 [HiLink提供云到端的整套智能家居解决方案](http://iot.hilink.huawei.com/#/)<br>
+2015.12.12 [HiLink提供云到端的整套智能家居解决方案](http://iot.hilink.huawei.com/#/)<br>
 ![华为HiLink智能家居开发者平台](http://iot.hilink.huawei.com/static/img/doc/1_1.png)<br>
+![桥接案例](http://iot.hilink.huawei.com/static/img/doc/12_1.png)<br>
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
 
 ### 中移动
