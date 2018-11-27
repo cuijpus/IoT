@@ -21,7 +21,7 @@
 
 ### 小米
 2018.11.27 [雷军下周出席小米AIoT开发者大会：详解小米AI+IoT核心战略](https://baijiahao.baidu.com/s?id=1617890007839408934&wfr=spider&for=pc)<br>
-2018.7.9 小米香港上市，发行价16元。<br>
+2018.7.9 小米香港上市，发行价17元。<br>
 2018.5.24  [深度解读小米IoT故事，AI技术补课没那么容易](https://baijiahao.baidu.com/s?id=1601333482414872878&wfr=spider&for=pc)<br>
 2017.11.29 [小米百度战略合作：共同推进IoT平台发展](http://www.techweb.com.cn/digitallife/2017-11-29/2612127.shtml)<br>
 2017.11.28 [助力小米AI战略 小米IoT宣布开发者计划将全面开放](http://www.ccidnet.com/2017/1201/10338774.shtml)<br>
@@ -57,12 +57,20 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2015.12.12 [HiLink提供云到端的整套智能家居解决方案](http://iot.hilink.huawei.com/#/)<br>
 ![华为HiLink智能家居开发者平台](http://iot.hilink.huawei.com/static/img/doc/1_1.png)<br>
 ![桥接案例](http://iot.hilink.huawei.com/static/img/doc/12_1.png)<br>
-
 2015.5.21 [华为“1+2+1”物联网IoT战略全新深度解读](http://www.yopai.com/show-2-158796-1.html)<br>
-
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
+
+
+### 阿里巴巴
+
+2018.3.28 [阿里巴巴宣布全面进军IoT，成为第五大赛道，5年内发展100亿设备](http://baijiahao.baidu.com/s?id=1596152781140932485&wfr=spider&for=pc)<br>
 
 ### 中移动
 2017.3.27 [中移窄带物联网简介](https://wenku.baidu.com/view/d6630e1e6fdb6f1aff00bed5b9f3f90f76c64d0c.html)<br>
+
+### 中电信
+
+
+
 
 ## 垂直供应商的补充
