@@ -56,7 +56,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2016.8 [如何拥抱物联网？华为IoT生态大揭秘](http://blog.sina.com.cn/s/blog_be62e9a90102wili.html)<br>
 2015.12.12 [HiLink提供云到端的整套智能家居解决方案](http://iot.hilink.huawei.com/#/)<br>
 ![华为HiLink智能家居开发者平台](http://iot.hilink.huawei.com/static/img/doc/1_1.png)<br>
-![桥接案例](http://iot.hilink.huawei.com/static/img/doc/12_1.png)<br>
+[桥接案例](http://iot.hilink.huawei.com/static/img/doc/12_1.png)<br>
 2015.5.21 [华为“1+2+1”物联网IoT战略全新深度解读](http://www.yopai.com/show-2-158796-1.html)<br>
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
 
@@ -65,7 +65,7 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 2018.11 [阿里IoT](https://iot.aliyun.com/)<br>
 [实施案例](https://files.alicdn.com/tpsservice/62265eb8a45a49bdf628337a690300e2.pdf)<br>
 2018.4.30 [一图看懂阿里云IoT战略]()<br>
-从万物互联到万物智联，离不开“无处不在的计算”。阿里云IoT在云边端部署了可协同的计算，基于物联网使能平台联合开发者、芯片模组厂商、行业合作伙伴等在城市、生活、汽车、制造四大领域已完成深度布局，即一朵云、两个端、三类伙伴、四大领域的”1234“战略。
+从万物互联到万物智联，离不开“无处不在的计算”。阿里云IoT在云边端部署了可协同的计算，基于物联网使能平台联合开发者、芯片模组厂商、行业合作伙伴等在城市、生活、汽车、制造四大领域已完成深度布局，即一朵云、两个端、三类伙伴、四大领域的”1234“战略。<br>
 [一图看懂阿里云IoT战略](http://5b0988e595225.cdn.sohucs.com/images/20180403/d0036a0a59a643fd9bfb7a5a247be6cc.png)<br> 
 
 从万物互联到万物智联，离不开“无处不在的计算”。阿里云IoT在云边端部署了可协同的计算，基于物联网使能平台联合开发者、芯片模组厂商、行业合作伙伴等在城市、生活、汽车、制造四大领域已完成深度布局，即一朵云、两个端、三类伙伴、四大领域的”1234“战略。<br>
