@@ -29,6 +29,9 @@
 2015.12.12 [HiLink提供云到端的整套智能家居解决方案](http://iot.hilink.huawei.com/#/)<br>
 ![华为HiLink智能家居开发者平台](http://iot.hilink.huawei.com/static/img/doc/1_1.png)<br>
 ![桥接案例](http://iot.hilink.huawei.com/static/img/doc/12_1.png)<br>
+
+2015.5.21 [华为“1+2+1”物联网IoT战略全新深度解读](http://www.yopai.com/show-2-158796-1.html)<br>
+
 2011.7.18 [华为物联网专题汇报](https://wenku.baidu.com/view/8077f34169eae009581bec87.html?sxts=1543280314482)<br>
 
 ### 中移动
