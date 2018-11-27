@@ -62,7 +62,8 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 
 
 ### 阿里巴巴
-
+2018.11 [阿里IoT](https://iot.aliyun.com/)<br>
+[实施案例](https://files.alicdn.com/tpsservice/62265eb8a45a49bdf628337a690300e2.pdf)<br>
 2018.4.30 [一图看懂阿里云IoT战略]()<br>
 从万物互联到万物智联，离不开“无处不在的计算”。阿里云IoT在云边端部署了可协同的计算，基于物联网使能平台联合开发者、芯片模组厂商、行业合作伙伴等在城市、生活、汽车、制造四大领域已完成深度布局，即一朵云、两个端、三类伙伴、四大领域的”1234“战略。
 ![一图看懂阿里云IoT战略](http://5b0988e595225.cdn.sohucs.com/images/20180403/d0036a0a59a643fd9bfb7a5a247be6cc.png)<br> 
