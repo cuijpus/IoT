@@ -21,6 +21,7 @@
 
 ### 小米
 2018.11.27 [雷军下周出席小米AIoT开发者大会：详解小米AI+IoT核心战略](https://baijiahao.baidu.com/s?id=1617890007839408934&wfr=spider&for=pc)<br>
+2018.7.9 小米香港上市，发行价16元。<br>
 2018.5.24  [深度解读小米IoT故事，AI技术补课没那么容易](https://baijiahao.baidu.com/s?id=1601333482414872878&wfr=spider&for=pc)<br>
 2017.11.29 [小米百度战略合作：共同推进IoT平台发展](http://www.techweb.com.cn/digitallife/2017-11-29/2612127.shtml)<br>
 2017.11.28 [助力小米AI战略 小米IoT宣布开发者计划将全面开放](http://www.ccidnet.com/2017/1201/10338774.shtml)<br>
