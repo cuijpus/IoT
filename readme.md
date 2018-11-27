@@ -26,9 +26,13 @@
 2017.11.28 [助力小米AI战略 小米IoT宣布开发者计划将全面开放](http://www.ccidnet.com/2017/1201/10338774.shtml)<br>
 2017.11.28 [小米首次披露IoT战略 将开启战略第二阶段](https://baijiahao.baidu.com/s?id=1585294094270129962&wfr=spider&for=pc)<br>
 2017.11.28 [小米IoT开发者平台](https://iot.mi.com/ )<br>
+2018.11.28 [小米IoT成全球最大智能硬件IoT平台 小米生态云助力国际化](https://news.znds.com/article/28013.html)<br>
+据小米官方透露，截至2017年末，小米IoT平台联网设备超过8500万，接入设备超过800种，合作伙伴超过400家，日活设备超过1000万，成为全球最大智能硬件IoT平台。<br>
 2017.11.28 [MIDC 2017 小米开发者大会](http://special.ccidnet.com/171124/)<br>
 2016
 2015 小米正式启动IoT战略并对外发布首款小米智能模块 <br>
+生态链：<br>
+![生态链](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543298942366&di=f68773b34d0bdeea51efb48806e4ebc3&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170206%2F81d96243e9f4487b95551b5574fa2ac5_th.jpeg><br>
 2014 WIFI模组 <br>
 2013.11 发布小米路由器 <br>
 
