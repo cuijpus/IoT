@@ -37,6 +37,7 @@
 http://pic.iresearch.cn/news/201807/dc8cfe4e-1abe-4867-bb7f-14b76a921cc6.png <br>
 http://images.iimedia.cn/5000161fea51dfe04933e1bf5a4b251821b381e3103477abb3c77dae2b7eee42618b8 <br>
 https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2da3591.jpeg <br>
+[小米生态链](http://www.eefocus.com/tag/%E5%B0%8F%E7%B1%B3%E7%94%9F%E6%80%81%E9%93%BE)<br>
 
 2014 WIFI模组 <br>
 
