@@ -82,6 +82,9 @@ https://5b0988e595225.cdn.sohucs.com/images/20180801/999a5fef120b41b693671833c2d
 阿里云IoT：<br>
 ![阿里云IoT](https://image.3001.net/images/20180330/15223934083976.png!small)<br>
 2017.10.20 AliOS Things is Alibaba's IoT version of AliOS Family, it was announced in The Computing Conference 2017 in Hangzhou by Alibaba Cloud, and open sourced in 20th, October, 2017 at github:https://github.com/alibaba/AliOS-Things.
+
+2017.9.20 [阿里巴巴发布AliOS品牌，重兵投入汽车及IoT领域](https://36kr.com/p/5095308.html)<br>
+
 2016.10.24 [阿里巴巴YunOS万物互联网战略正式发布](https://www.ithome.com/html/it/264499.htm)<br> 
 
 
