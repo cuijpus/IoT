@@ -25,6 +25,7 @@
 2017.11.29 [小米百度战略合作：共同推进IoT平台发展](http://www.techweb.com.cn/digitallife/2017-11-29/2612127.shtml)<br>
 2017.11.28 [助力小米AI战略 小米IoT宣布开发者计划将全面开放](http://www.ccidnet.com/2017/1201/10338774.shtml)<br>
 2017.11.28 [小米首次披露IoT战略 将开启战略第二阶段](https://baijiahao.baidu.com/s?id=1585294094270129962&wfr=spider&for=pc)<br>
+2017.11.28 [小米IoT开发者平台](https://iot.mi.com/ )<br>
 2017.11.28 [MIDC 2017 小米开发者大会](http://special.ccidnet.com/171124/)<br>
 2016
 2015 小米正式启动IoT战略并对外发布首款小米智能模块 <br>
