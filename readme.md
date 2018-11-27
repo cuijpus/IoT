@@ -32,8 +32,10 @@
 2016
 2015 小米正式启动IoT战略并对外发布首款小米智能模块 <br>
 生态链：<br>
-![生态链](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543298942366&di=f68773b34d0bdeea51efb48806e4ebc3&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170206%2F81d96243e9f4487b95551b5574fa2ac5_th.jpeg><br>
+![生态链](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1543298942366&di=f68773b34d0bdeea51efb48806e4ebc3&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20170206%2F81d96243e9f4487b95551b5574fa2ac5_th.jpeg)<br>
+
 2014 WIFI模组 <br>
+
 2013.11 发布小米路由器 <br>
 
 ### 华为
