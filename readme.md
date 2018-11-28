@@ -20,6 +20,8 @@
 ## 巨头们的生态构筑
 
 ### 小米
+2018.11.28 [「小米AIoT开发者大会」雷军宣布小爱同学激活破亿，和宜家开启](https://baijiahao.baidu.com/s?id=1618352092306146940&wfr=spider&for=pc)<br>
+![AIOT](http://img1.mydrivers.com/img/20181128/7703a10029cc4fb2a659781a4f54f32d.jpg)<br>
 2018.11.27 [雷军下周出席小米AIoT开发者大会：详解小米AI+IoT核心战略](https://baijiahao.baidu.com/s?id=1617890007839408934&wfr=spider&for=pc)<br>
 2018.7.9 小米香港上市，发行价17元。<br>
 2018.5.24  [深度解读小米IoT故事，AI技术补课没那么容易](https://baijiahao.baidu.com/s?id=1601333482414872878&wfr=spider&for=pc)<br>
